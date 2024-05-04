@@ -2,8 +2,8 @@
 
 I am Caglar Demir.
 
-Senior Researcher at the Data Science Group of Paderborn University and at SAP SE.
-Diplom/Bachelor in CE, Master in CS, and PhD in CS.
+Senior Researcher at the Data Science Group of Paderborn University,previously, visiting researcher at SAP SE.
+
 
 Interested in developing scalable algorithms for learning and reasoning on structured data, particularly on knowledge graphs. 
 
